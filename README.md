@@ -27,3 +27,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Spacer app
+This app uses NASA image API to fetch images and display them after passing search query.
+
+
+Application based on youtube course from the "Hello Roman" channel
+
+* https://www.youtube.com/watch?v=A2rEhxkFPDw
